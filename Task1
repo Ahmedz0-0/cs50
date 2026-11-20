@@ -1,1 +1,8 @@
-
+Q1 : 
+    start
+    read grade
+    if grade >= 50
+    print pass
+    else 
+    print failed 
+    stop
